@@ -1,3 +1,3 @@
 # The Fantastic Carnival!
 
-I will try to make a carnival simulation game!
+Here will me my repo for a carnival simulation game I am making!
